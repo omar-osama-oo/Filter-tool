@@ -42,7 +42,7 @@ Image processing tool
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/image-processing-tool.git
+git clone https://github.com/omar-osama-oo/image-processing-tool.git
 cd image-processing-tool
 pip install -r requirements.txt
 ```
